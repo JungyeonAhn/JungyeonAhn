@@ -5,6 +5,7 @@
 
 #### 🤍 Interest
 - flutter 
+- firebase
 - spring boot
 - VR/AR
 
