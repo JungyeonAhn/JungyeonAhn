@@ -1,13 +1,15 @@
-### Hi there 👋
+## Jungyeon Ahn
 
 
-### 🤍 Interest
+
+
+#### 🤍 Interest
 - flutter 
 - spring boot
 - VR/AR
 
 
-### 💻 Project
+#### 💻 Project
 - 헌혈 플랫폼 웹 서비스 & 데이터베이스 관리 시스템 
 - AR 미로 찾기 게임
 - 발달 장애인을 위한 VR 직업교육 게임 
@@ -18,7 +20,7 @@
 - face detection 기반 얼굴 특징 분석 및 스타일링 추천 앱 
 
 
-### ✨ Activity
+#### ✨ Activity
 - Award : 2017 세종대학교 코딩챌린지위크 장려상
 - Award : 2019 세종대학교 SW 코딩 경시대회 4등
 - Award : 2020 세종대학교 창업 아이디어 경진대회 장려상
