@@ -29,6 +29,6 @@
 - Award : 2020 세종대학교 피칭 대회 우수상
 - Exchange student : 프랑스 IT 대학 EPITA 교환학생
 - 세종대학교 VR/AR 연구실 학부연구생 
-- 칵테일 키트 smart-order 서비스 hellocock : full-stack developer
+- cocktail-kit smart-order 서비스 hellocock : full-stack developer
 
 
