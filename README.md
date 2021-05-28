@@ -4,8 +4,8 @@
 
 
 #### 🤍 Interest
-- flutter 
-- spring boot
+- Flutter
+- Spring boot
 - VR/AR
 
 
@@ -16,6 +16,7 @@
 - 연구실 사용자 평가 시스템 Spring boot 서버 개발
 - 세종대학교 홍보 맵 Microsoft Hololense2 개발
 - 전동킥보드 안전 주행 알림 시스템
+- 웹 크롤링 데이터 기반 영화 추천 시스템
 - hellocock 스마트 오더 플랫폼 앱 
 - face detection 기반 얼굴 특징 분석 및 스타일링 추천 앱 
 
@@ -31,6 +32,6 @@
 - 2020 실전 창업교육 수료 
 - Exchange student : 프랑스 IT 대학 EPITA 교환학생
 - 세종대학교 VR/AR 연구실 학부연구생 
-- cocktail-kit smart-order 서비스 hellocock : full-stack developer
+- cocktail-kit smart-order 서비스 hellocock : Full-stack Developer
 
 
