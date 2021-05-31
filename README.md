@@ -5,7 +5,7 @@
 
 #### 🤍 Interest
 - Flutter
-- Spring boot
+- node.js
 - VR/AR
 
 
