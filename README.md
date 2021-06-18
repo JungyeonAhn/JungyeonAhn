@@ -4,7 +4,7 @@
 
 #### 🤍 Interest
 - Flutter
-- node.js
+- SpringBoot
 - VR/AR
 
 
