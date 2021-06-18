@@ -2,7 +2,6 @@
 
 
 
-
 #### 🤍 Interest
 - Flutter
 - node.js
@@ -18,7 +17,7 @@
 - 전동킥보드 안전 주행 알림 시스템
 - 웹 크롤링 데이터 기반 영화 추천 시스템
 - hellocock 스마트 오더 플랫폼 앱 
-- face detection 기반 얼굴 특징 분석 및 스타일링 추천 앱 
+- face detection 기반 AI 퍼스널 컨설팅 앱 
 
 
 #### ✨ Activity
@@ -27,11 +26,12 @@
 - Award : 2020 세종대학교 창업 아이디어 경진대회 장려상
 - Award : 2020 세종대학교 하계 스타트업 캠프 대상
 - Award : 행안부 주최 SW 개발보안 경진대회 본선
-- Award : 2020 세종대학교 피칭 대회 우수상
+- Award : 2020 세종대학교 피칭&멘토링 대회 우수상
 - 2020 예비 창업 패키지 비대면 분야 최우수 선정 
-- 2020 실전 창업교육 수료 
+- 2020 건국대학교 실전 창업교육 수료 
 - Exchange student : 프랑스 IT 대학 EPITA 교환학생
 - 세종대학교 VR/AR 연구실 학부연구생 
 - cocktail-kit smart-order 서비스 hellocock : Full-stack Developer
+- Award : 2021 세종대학교 창의설계경진대회 최우수상&인기상
 
 
