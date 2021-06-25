@@ -32,5 +32,6 @@
 - 세종대학교 VR/AR 연구실 학부연구생 (2020.07 ~ 2020.12)
 - cocktail-kit smart-order 서비스 hellocock : Full-stack Developer
 - Award : 2021 세종대학교 SW/AI 창의설계경진대회 최우수상&인기상
+- 2021 삼성SDS 랜선 멘토링
 
 
