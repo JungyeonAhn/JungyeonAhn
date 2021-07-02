@@ -4,13 +4,11 @@ Hello world 👋  Business에 관심이 많은 mobile app developer입니다 �
 
 새로운 것을 배우고, 기록하는 것을 좋아합니다 🧡
 
-</br>
 
 ### 🤍  Interest
 - Flutter
 - Swift
 
-</br>
 
 ### 💻  Project    
 
@@ -18,7 +16,6 @@ Hello world 👋  Business에 관심이 많은 mobile app developer입니다 �
 - Cocktail-kit Smart order app (2020.11 ~ 2021.02)
 - Face Detection 기반 AI 퍼스널 컨설팅 앱 (2021.03 ~ 2021.06)
 
-</br>
 
 ### ✨  Activity
 - Award : 2017 세종대학교 코딩챌린지위크 장려상
