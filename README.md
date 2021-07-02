@@ -1,8 +1,6 @@
 ## Jungyeon Ahn
 
-Hello world 👋 
-
-Business에 관심이 많은 mobile app developer입니다 📱 
+Hello world 👋  Business에 관심이 많은 mobile app developer입니다 📱 
 
 새로운 것을 배우고, 기록하는 것을 좋아합니다 🧡
 
