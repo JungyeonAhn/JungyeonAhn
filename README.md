@@ -4,10 +4,8 @@
 
 
 ### 🤍  Interest
-- Flutter
-- Node.js
-- Swift
-  
+Mobile applicaiton, VR/AR
+
 
 #### 💻 Project
 - 헌혈 플랫폼 웹 서비스 & 데이터베이스 관리 시스템(2019.03 ~ 2019.06)
