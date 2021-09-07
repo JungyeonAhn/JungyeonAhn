@@ -4,7 +4,8 @@
 
 
 ### 🤍  Interest
-Mobile applicaiton, VR/AR
+- mobile development
+- computer vision
 
 
 #### 💻 Project
