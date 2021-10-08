@@ -16,7 +16,9 @@ I'm interested in Mobile & Server Development. 🍒
  웹 크롤링 데이터 기반 영화 추천 시스템 (2020.09, toy project)<br>
  칵테일 키트 스마트오더 앱 (2020.10 ~ 2021.02)<br>
  얼굴인식/검출 기반 AI 퍼스널 컨설팅 앱 (2021.03 ~ 2021.06)<br>
- 논알콜 칵테일 mbti (2021.07 ~ 2021.08, toy project)
+ 논알콜 칵테일 mbti (2021.07 ~ 2021.08, toy project)<br>
+ 의류 인식/검색 기반 AI 영상 검색 패션 플랫폼 (2021.09 ~ ing) 
+    
 <br>
   
 </div>
@@ -45,7 +47,6 @@ I'm interested in Mobile & Server Development. 🍒
  Circle : Central Makeus Challenge 8th Server Developer<br>
 
 
-
 </div>
 </details>
   
@@ -67,7 +68,6 @@ I'm interested in Mobile & Server Development. 🍒
     
 
 <br>
-
 
 
 
