@@ -16,9 +16,10 @@ I'm interested in Mobile & Server Development. 🍒
  웹 크롤링 데이터 기반 영화 추천 시스템 (2020.09, toy project)<br>
  칵테일 키트 스마트오더 앱 (2020.10 ~ 2021.02)<br>
  얼굴인식/검출 기반 AI 퍼스널 컨설팅 앱 (2021.03 ~ 2021.06)<br>
- 논알콜 칵테일 mbti (2021.07 ~ 2021.08, toy project)<br>
+ 성향으로 찾는 칵테일 mbti 테스트(2021.07 ~ 2021.08, toy project)<br>
  의류 인식/검색 기반 AI 영상 패션 플랫폼 (2021.09 ~ ing)<br>
- 펫 유치원 통합 서비스 플랫폼, 핀더가든 (2021.10 ~ 2021.12) 
+ 펫 유치원 통합 서비스 플랫폼, 핀더가든 (2021.10 ~ 2021.12) <br>
+ IT 공모전 팀빌딩 플랫폼, 모아 (2021.11 ~ 2021.12)
   
 </div>
 </details>
@@ -40,35 +41,17 @@ I'm interested in Mobile & Server Development. 🍒
  Award : 2021 세종대학교 SW/AI 창의설계경진대회 인기상<br>
  Start-up : 2020 예비 창업 패키지 비대면 분야 최우수 선정 <br>
  Start-up : 2020 건국대학교 실전 창업교육 수료 <br>
- Start-up : 창업팀 hellocock : Full-stack Developer <br>
+ Start-up : 창업팀 hellocock Co-Founder/CTO <br>
  Exchange student : 프랑스 IT 대학 EPITA 교환학생<br>
  Researcher : 세종대학교 Argumented Reality/Mixed Reality 연구실 학부연구생<br>
- Circle : Central Makeus Challenge 8th Server Developer<br>
+ Circle : 수익형 앱 런칭 동아리 MakeUs 8기 서버 개발자<br>
 
 
 </div>
 </details>
   
 
-    
-### ⚒ Languages and Tools
-
-<a ><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<a ><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
-<a ><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<a ><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-<a ><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/> </br>
-
-### Contact
-  <a ><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  <a ><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
-  <a ><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 <br>
-    
-
-<br>
-
-
 
 
      
