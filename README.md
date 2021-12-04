@@ -2,11 +2,11 @@
     
 ## Hi, I'm Jungyeon 👋
 
-I'm interested in Mobile & Server Development. 🍒
+I'm interested in Mobile & Server Development.
 
 
 <details>
-  <summary><b>🌱 Project</b></summary>
+  <summary><b> Project</b></summary>
 <div markdown="1">       
 
   <br>
@@ -17,16 +17,15 @@ I'm interested in Mobile & Server Development. 🍒
  칵테일 키트 스마트오더 앱 (2020.10 ~ 2021.02)<br>
  얼굴인식/검출 기반 AI 퍼스널 컨설팅 앱 (2021.03 ~ 2021.06)<br>
  성향으로 찾는 칵테일 mbti 테스트(2021.07 ~ 2021.08, toy project)<br>
- 의류 인식/검색 기반 AI 영상 패션 플랫폼 (2021.09 ~ ing)<br>
  펫 유치원 통합 서비스 플랫폼, 핀더가든 (2021.10 ~ 2021.12) <br>
- IT 공모전 팀빌딩 플랫폼, 모아 (2021.11 ~ 2021.12)
+ IT 공모전 팀빌딩 플랫폼, 모아 (2021.11 ~ 2021.11)
   
 </div>
 </details>
 
 
 <details>
-  <summary> <b>✨ Activity</b></summary>
+  <summary> <b> Activity</b></summary>
 <div markdown="1">     
   
 <br>
