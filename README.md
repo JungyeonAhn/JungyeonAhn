@@ -2,8 +2,7 @@
     
 ## Hi, I'm Jungyeon 👋
 
-I'm interested in Mobile & Server Development.
-
+I'm interested in **BE** 🖤
 
 <details>
   <summary><b> 🌱 Project</b></summary>
